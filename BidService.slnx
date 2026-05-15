@@ -1,4 +1,0 @@
-<Solution>
-  <Project Path="BidService/BidService.csproj" />
-  <Project Path="UserService/UserService.csproj" Id="6f0090d4-bcdf-44bf-a28d-55b69d6c8dcb" />
-</Solution>
